@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextRecogniser</string>
+    <string name="btn">Open Camera</string>
+</resources>
